@@ -1,7 +1,8 @@
-## The Sound of Machines
+## Sorting Thoughts
 
-Hello and welcome! I am thrilled that you're here. This will soon be a place for thoughts, projects and plenty of mistakes to learn from. 
+Hello and welcome! I am really happy that you found your way here. This is a place I hope to use to get my thoughts in order. If you like what you find, please say hi. 
 
-You can find more about me on [LinkedIn](https://www.linkedin.com/in/petersforbes) or for lighter fare, follow me on [Twitter](https://www.twitter.com/petersforbes).
+You can find me on [LinkedIn](https://www.linkedin.com/in/petersforbes) or follow me on [Mastodon](https://sigmoid.social/@petersforbes#). 
 
+Thanks and have a great day. 
 
