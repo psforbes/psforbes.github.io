@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: The Sound of Machines
-description: Amusing stuff and things at the intersection of machine learning and financial markets
+title: Sorting Thoughts
+description: A quiet place to sort out ideas about AI, ML and sometimes financial markets
 github_username: psforbes
 
 # Email and twitter are optional:
 email:
-twitter_username: petersforbes
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
 use_math:
