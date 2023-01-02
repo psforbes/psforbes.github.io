@@ -1,3 +1,3 @@
-# Your blog
+# Sorting Thoughts
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is the repository for Peter Forbes's blog Sorting Thoughts, a quiet place to sort out ideas about data, machine learning, and sometimes financial markets. Thanks for visiting!
